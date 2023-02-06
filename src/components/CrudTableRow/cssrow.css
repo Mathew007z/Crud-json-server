@@ -1,0 +1,11 @@
+.name-pj{
+    font-size:22px;
+    font-family: 'Marvel', sans-serif;
+}
+.button-row{
+    padding: 6px 6px;
+    margin-left: 10px;
+    border-radius: 50px;
+    border: none;
+    background-color: rgb(2, 230, 255);
+}

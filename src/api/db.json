@@ -1,0 +1,29 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "nuevo",
+      "arma": "nuevo"
+    },
+    {
+      "id": 2,
+      "name": "Hulk",
+      "arma": "fuerza"
+    },
+    {
+      "id": 3,
+      "name": "IronMan",
+      "arma": "Misiles"
+    },
+    {
+      "id": 4,
+      "name": "DoctorStrange",
+      "arma": "Gema del tiempo"
+    },
+    {
+      "id": 5,
+      "name": "Capitan America",
+      "arma": "Escudo"
+    }
+  ]
+}

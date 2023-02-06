@@ -1,0 +1,36 @@
+
+  th,td{
+    padding: 20px;
+  }
+
+
+  table {
+    text-align: left;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+
+  .table{
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #fff;
+    border-radius: 50px;
+    padding: 20px 100px;
+    
+  }
+  .th-name{
+    font-size: 28px;
+    font-family: 'Marvel', sans-serif;
+  }
+
+/* 
+font-family: 'Dancing Script', cursive;
+font-family: 'Kranky', cursive;
+font-family: 'Londrina Sketch', cursive;
+font-family: 'Marvel', sans-serif;
+font-family: 'Numans', sans-serif;
+ç
+font-family: 'Quicksand', sans-serif; */

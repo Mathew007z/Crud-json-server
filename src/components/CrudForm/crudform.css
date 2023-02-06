@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Kranky&family=Londrina+Sketch&family=Marvel:ital,wght@0,700;1,400&family=Numans&family=Original+Surfer&family=Quicksand:wght@500&display=swap');
+
+
+.form-contain{
+    padding: 12px;
+
+}
+
+h3{
+    margin-bottom: .7em;
+    font-family: 'Kranky', cursive;
+    font-size: 45px;
+}
+.groot{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: start;
+}
+.input-field{
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    width: 250px;
+    margin: 25px 0px 25px 25px;
+}
+.button-box{
+    padding: 8px 14px 8px 14px;
+    margin-left: 1em;
+    border-radius: 50px;
+    border: none;
+    font-family: 'Marvel', sans-serif;
+    font-size: 16px;
+}
+
